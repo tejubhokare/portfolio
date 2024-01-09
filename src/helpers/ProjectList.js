@@ -1,11 +1,18 @@
 import Proj1 from "../assets/proj1.jpg";
 import Proj2 from "../assets/proj2.jpg";
-import Proj3 from "../assets/proj3.webp";
 import Proj4 from "../assets/proj4.webp";
 import Proj5 from "../assets/proj5.jpg";
 import Proj6 from "../assets/proj6.png";
+import SpotifyClone from "../assets/SpotifyClone.JPG";
 
 export const ProjectList = [
+  {
+    name: "Spotify Clone",
+    image: SpotifyClone,
+    skills: "Next 13.4, React, Tailwind, Supabase, PostgreSQL, Stripe",
+    github: "https://github.com/tejubhokare/spotify-clone",
+    website: "https://spotify-clone-drab-zeta.vercel.app/"
+  },
   {
     name: "Dijkstra Algorithm Visualizer",
     image: Proj1,
@@ -15,11 +22,6 @@ export const ProjectList = [
     name: "Ecommerce Website",
     image: Proj2,
     skills: "React,Node.js,MongoDB",
-  },
-  {
-    name: "Spotify Clone",
-    image: Proj3,
-    skills: "React,Node.js,MongoDB,SpotifyAPI",
   },
   {
     name: "Social Media Website",
