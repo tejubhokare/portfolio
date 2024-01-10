@@ -14,28 +14,28 @@ export const ProjectList = [
     website: "https://spotify-clone-drab-zeta.vercel.app/"
   },
   {
-    name: "Dijkstra Algorithm Visualizer",
+    name: "Movie Rating APP",
     image: Proj1,
-    skills: "JavaScript,HTML,CSS",
+    skills: "TypeScript,HTML,CSS",
   },
-  {
-    name: "Ecommerce Website",
-    image: Proj2,
-    skills: "React,Node.js,MongoDB",
-  },
-  {
-    name: "Social Media Website",
-    image: Proj4,
-    skills: "React,Node.js,MySQL,GraphQL",
-  },
-  {
-    name: "Dashboard Visualizer",
-    image: Proj5,
-    skills: "JavaScript,HTML,CSS",
-  },
-  {
-    name: "Mobile Game",
-    image: Proj6,
-    skills: "React Native,JavaScript,HTML,CSS",
-  },
+  // {
+  //   name: "Ecommerce Website",
+  //   image: Proj2,
+  //   skills: "React,Node.js,MongoDB",
+  // },
+  // {
+  //   name: "Social Media Website",
+  //   image: Proj4,
+  //   skills: "React,Node.js,MySQL,GraphQL",
+  // },
+  // {
+  //   name: "Dashboard Visualizer",
+  //   image: Proj5,
+  //   skills: "JavaScript,HTML,CSS",
+  // },
+  // {
+  //   name: "Mobile Game",
+  //   image: Proj6,
+  //   skills: "React Native,JavaScript,HTML,CSS",
+  // },
 ];
