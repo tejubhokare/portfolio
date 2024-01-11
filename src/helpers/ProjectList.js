@@ -17,6 +17,7 @@ export const ProjectList = [
     name: "Movie Rating APP",
     image: Proj1,
     skills: "TypeScript,HTML,CSS",
+    github: "https://github.com/tejubhokare/react-movie-rating-app"
   },
   // {
   //   name: "Ecommerce Website",

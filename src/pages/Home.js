@@ -37,11 +37,11 @@ function Home() {
         <ol className="list">
           <li className="item">
             <h2>Front-End</h2>
-            <span> ReactJS, Redux, HTML, CSS, NPM, NextJS</span>
+            <span> ReactJS, NextJS, Redux, HTML, CSS, NPM</span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
-            <span>NodeJS, ExpressJS, MongoDB, SQL </span>
+            <span>NodeJS, ExpressJS, MongoDB, MySQLSQL </span>
           </li>
           <li className="item">
             <h2>Langauges</h2>
