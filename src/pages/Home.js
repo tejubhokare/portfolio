@@ -44,7 +44,7 @@ function Home() {
             <span>NodeJS, ExpressJS, MongoDB, MySQLSQL </span>
           </li>
           <li className="item">
-            <h2>Langauges</h2>
+            <h2>Programming Langauges</h2>
             <span> JavaScript, TypeScript </span>
           </li>
 

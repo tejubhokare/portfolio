@@ -30,7 +30,7 @@ function Experience() {
                     icon={<SchoolIcon />}>
                     <h3 className="vertical-timeline-element-title"> College of Engineering, Pune (India)</h3>
                     <p>Bachelor of Technology in Information Technology Engineering</p>
-                    <p>Coursework: Web Development, Object Oriented Programming, Artificial Intelligence and Machine Learning</p>
+                    <p>Coursework: Web Development, Object Oriented Programming, Software Engineering Concepts, Quality Analysis</p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement className="vertical-timeline-element--work"
                     date="2020 - 2023"
