@@ -41,11 +41,11 @@ function Home() {
           </li>
           <li className="item">
             <h2>Back-End</h2>
-            <span>NodeJS, ExpressJS, MongoDB, MySQLSQL </span>
+            <span>NodeJS, ExpressJS, MongoDB, MySQL, SQL Server </span>
           </li>
           <li className="item">
             <h2>Programming Langauges</h2>
-            <span> JavaScript, TypeScript </span>
+            <span> JavaScript, TypeScript, C# .Net </span>
           </li>
 
         </ol>
